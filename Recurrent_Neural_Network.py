@@ -1,5 +1,6 @@
 # Author: Khoi Hoang
 # Recognize Hand-written Numbers - Using Recurrent Neural Network
+# Note: code is written in Python 2.7 so there are some differences in syntax for those who using Python 3
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 from tensorflow.contrib import rnn 
